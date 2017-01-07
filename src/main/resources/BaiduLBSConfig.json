@@ -1,0 +1,11 @@
+[
+  {
+    "comment":"创建表",
+    "interfaceName": "BaiduCreateTable",
+    "requestTransferName": "with_prototype.lbsinterface.transfer.CreateGeoTableRequestTransfer",
+    "responseTranferName": "with_prototype.lbsinterface.transfer.CreateGeoTableResponseTransfer",
+    "communicatorName": "with_prototype.lbsinterface.communicator.BaiduCommunicator",
+    "url": "http://api.map.baidu.com/geodata/v3/geotable/create",
+    "callerName": "with_prototype.lbsinterface.caller.BaiduCaller"
+  }
+]
